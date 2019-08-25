@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Neural Style Transfer</string>
+    <string name="button">Capture</string>
+</resources>
